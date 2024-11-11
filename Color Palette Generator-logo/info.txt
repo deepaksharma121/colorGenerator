@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Barlow-Black
+font link: https://fonts.google.com/specimen/Barlow
+font author: Jeremy Tribby
+font author site: https://tribby.com/
+
+
+{"bg":"#F1E2EC","icon-gradient-0":"#8C48D2","icon-gradient-1":"#CF705A","font":"#331B2B","slogan":"#472f3f"}
+      
